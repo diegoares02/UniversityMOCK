@@ -368,7 +368,7 @@ namespace University
                         {
                             using (var db = new DAL.UniversityContext())
                             {
-                                Console.WriteLine("Ingrese codigo de estudiante");
+                                Console.WriteLine("Ingrese codigo de estudiante");//codigo estudiante
                                 int st = Convert.ToInt32(Console.ReadLine());
                                 var result = (from d in db.Inscripciones
                                               from g in db.Cursos
