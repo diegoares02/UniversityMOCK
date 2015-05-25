@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University", "University\University.csproj", "{2E90ED2B-C31B-4297-A312-DA048A4E66BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit test MOQ", "NUnit test MOQ\NUnit test MOQ.csproj", "{8D275A58-882C-435C-99B9-FDE2237170B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E90ED2B-C31B-4297-A312-DA048A4E66BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E90ED2B-C31B-4297-A312-DA048A4E66BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E90ED2B-C31B-4297-A312-DA048A4E66BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E90ED2B-C31B-4297-A312-DA048A4E66BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D275A58-882C-435C-99B9-FDE2237170B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D275A58-882C-435C-99B9-FDE2237170B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D275A58-882C-435C-99B9-FDE2237170B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D275A58-882C-435C-99B9-FDE2237170B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
